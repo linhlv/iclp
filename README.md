@@ -1,0 +1,1 @@
+This project is developing iCollaboration on mobile (both Android and iOS) by using React Native
